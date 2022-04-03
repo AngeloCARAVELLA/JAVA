@@ -1,0 +1,15 @@
+CRVNGLO2D29G596R
+SASA
+Machine learning e data science
+Ingegneria informatica magistrale
+ING-INF-05
+CBUDU9
+DIMM
+Elettronica per sistemi embedded
+Ingegneria elettronica magistrale
+ING-INF-07
+CBUDU1
+DIMM
+Elettronica per sistemi embedded
+Ingegneria elettronica magistrale
+ING-INF-07
