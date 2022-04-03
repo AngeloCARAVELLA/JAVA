@@ -1,0 +1,26 @@
+appartamento
+23app
+San Caspio
+2
+Benevento
+10000000
+1
+12
+38
+indipendente
+24ind
+San Porcello
+7
+Frattolino
+10300000
+2
+true
+appartamento
+41app
+San Caspio
+1
+Benevento
+501000
+2
+11
+31
