@@ -84,13 +84,13 @@ public class Luogo_gestore {
 
 		}
 
-		CalcComunePiùgrande(nome, temp, ls);
+		CalcComunePiÃ¹grande(nome, temp, ls);
 
 		System.out.println(
 				"Per la provincia: " + nome + " ci sono in totale: " + somma + " maschi: " + sM + " femmine: " + sF);
 	}
 
-	private void CalcComunePiùgrande(String nome, int temp, LinkedList<String> ls) {
+	private void CalcComunePiÃ¹grande(String nome, int temp, LinkedList<String> ls) {
 		int somma = 0;
 		int sM = 0;
 		int sF = 0;
@@ -113,7 +113,7 @@ public class Luogo_gestore {
 
 		}
 
-		System.out.println("Per la provincia: " + nome + " il comune con più abitanti è " + n);
+		System.out.println("Per la provincia: " + nome + " il comune con piï¿½ abitanti ï¿½ " + n);
 
 	}
 
@@ -135,7 +135,7 @@ public class Luogo_gestore {
 				no = r.getNome();
 			}
 		}
-		System.out.println("La regione: " + no + " è la più grande");
+		System.out.println("La regione: " + no + " ï¿½ la piï¿½ grande");
 	}
 
 	private int SearchIn(LinkedList<String> ls, String nome) {
